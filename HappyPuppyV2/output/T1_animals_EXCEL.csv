@@ -1,0 +1,86 @@
+ID|Name|Species|Sex|Date of birth|Disabilities|House without kids|Experienced owners|Preferred place to live|Date of admission|Death
+1|Schorchy|CAT|MALE|2019-09-10|[blindness, deafness]|1|1|ANY|2022-02-02|
+2|Chasty|DOG|MALE|2017-10-08|[amputated limb]|0|0|ANY|2022-02-02|
+3|Joan|DOG|FEMALE|2015-04-01|[amputated limb, obesity, dog heartworm]|1|0|INDOOR|2022-02-02|
+4|Gorki|CAT|MALE|2015-11-03|[cystitis, obesity, tooth pathology]|1|0|ANY|2022-02-02|
+5|Panache|DOG|FEMALE|2007-11-15|[diabetes, obesity]|1|0|OUTDOOR|2022-02-02|
+6|Cuckoo|CAT|MALE|2021-08-30|[feline heartworm, amputated limb, FeLV]|0|1|ANY|2022-02-02|
+7|Anette|DOG|FEMALE|2010-07-10|[dog heartworm]|0|0|OUTDOOR|2022-02-02|
+8|Maite|CAT|FEMALE|2010-10-03|[FIV]|0|1|ANY|2022-02-02|
+9|Ellis|DOG|FEMALE|2020-07-27|[]|1|1|INDOOR|2022-02-02|
+10|Olympia|DOG|FEMALE|2021-02-17|[Lyme disease, amputated limb, deafness]|1|1|INDOOR|2022-02-02|
+11|Pyrrhus|CAT|MALE|2010-12-01|[diabetes, obesity]|0|0|OUTDOOR|2022-02-02|
+12|Orell|CAT|MALE|2009-09-16|[]|0|0|ANY|2022-02-02|
+5|Panache|DOG|FEMALE|2007-11-15|[amputated limb, diabetes, obesity]|1|0|OUTDOOR|2022-02-02|
+11|Pyrrhus|CAT|MALE|2010-12-01|[cancer, diabetes, obesity]|0|0|OUTDOOR|2022-02-02|
+13|Leif|CAT|MALE|2009-08-21|[FIV]|1|1|ANY|2022-02-06|
+14|Terence|CAT|MALE|2016-04-01|[]|1|1|ANY|2022-02-06|
+11|Pyrrhus|CAT|MALE|2010-12-01|[cancer, diabetes, obesity]|0|0|OUTDOOR|2022-02-02|2022-02-06
+15|Lado|CAT|MALE|2008-02-08|[kidney disease, diabetes]|1|1|ANY|2022-02-07|
+16|Lado|DOG|MALE|2013-06-05|[blindness, deafness]|1|0|INDOOR|2022-02-07|
+17|Hups|DOG|MALE|2018-01-31|[obesity, dog heartworm]|1|1|ANY|2022-02-07|
+18|Don-Juan|CAT|MALE|2007-08-29|[feline heartworm, amputated limb, kidney disease]|1|0|ANY|2022-02-07|
+19|Jaslyne|DOG|FEMALE|2016-07-04|[Lyme disease, amputated limb, diabetes]|1|0|INDOOR|2022-02-09|
+20|Barina|CAT|FEMALE|2014-12-15|[feline heartworm, blindness, FeLV]|0|1|INDOOR|2022-02-09|
+21|Crystal|DOG|FEMALE|2019-07-02|[]|0|0|INDOOR|2022-02-09|
+22|Jaira|DOG|FEMALE|2013-02-25|[]|1|1|OUTDOOR|2022-02-11|
+23|Lalos|CAT|MALE|2007-10-23|[feline heartworm]|0|1|OUTDOOR|2022-02-11|
+18|Don-Juan|CAT|MALE|2007-08-29|[feline heartworm, amputated limb, kidney disease]|1|0|ANY|2022-02-07|2022-02-11
+24|Zara|CAT|FEMALE|2015-01-25|[cancer, tooth pathology]|0|0|INDOOR|2022-02-12|
+25|Duro|DOG|MALE|2007-03-19|[arthritis, blindness, deafness]|1|0|ANY|2022-02-14|
+26|Patto|CAT|MALE|2019-01-25|[amputated limb]|1|1|INDOOR|2022-02-17|
+27|Flunki|CAT|MALE|2009-04-08|[deafness, diabetes]|1|0|OUTDOOR|2022-02-17|
+28|Sam|CAT|FEMALE|2019-12-30|[kidney disease, cystitis]|0|1|INDOOR|2022-02-17|
+29|Summer|CAT|FEMALE|2016-11-09|[cancer, deafness]|0|1|INDOOR|2022-02-18|
+30|Goofy|CAT|MALE|2020-03-16|[]|1|0|ANY|2022-02-18|
+31|Navy|DOG|MALE|2017-09-13|[arthritis, cancer, deafness]|0|0|ANY|2022-02-18|
+32|Bonito|CAT|MALE|2020-03-05|[cystitis]|1|0|INDOOR|2022-02-21|
+33|Kobbo|DOG|MALE|2020-07-27|[]|1|0|OUTDOOR|2022-02-21|
+34|Claudio|DOG|MALE|2014-10-30|[]|1|0|ANY|2022-02-21|
+35|Benno|DOG|MALE|2013-11-29|[Lyme disease, arthritis]|1|0|ANY|2022-02-21|
+15|Lado|CAT|MALE|2008-02-08|[kidney disease, diabetes]|1|1|ANY|2022-02-07|2022-02-21
+19|Jaslyne|DOG|FEMALE|2016-07-04|[Lyme disease, amputated limb, diabetes]|1|0|INDOOR|2022-02-09|2022-02-25
+1|Schorchy|CAT|MALE|2019-09-10|[blindness, deafness, diabetes]|1|1|ANY|2022-02-02|
+3|Joan|DOG|FEMALE|2015-04-01|[amputated limb, obesity, dog heartworm]|1|0|INDOOR|2022-02-02|2022-02-27
+36|Kiss|DOG|FEMALE|2016-04-29|[blindness, deafness, diabetes]|0|1|ANY|2022-02-28|
+37|Marcelle|DOG|FEMALE|2010-01-26|[]|0|0|ANY|2022-03-08|
+38|Elco|CAT|MALE|2020-05-14|[FIV]|1|1|ANY|2022-03-08|
+4|Gorki|CAT|MALE|2015-11-03|[cystitis, obesity, tooth pathology]|1|0|ANY|2022-03-08|
+10|Olympia|DOG|FEMALE|2021-02-17|[Lyme disease, amputated limb, deafness, dog heartworm]|1|1|INDOOR|2022-02-02|
+31|Navy|DOG|MALE|2017-09-13|[arthritis, cancer, deafness]|0|0|ANY|2022-02-18|2022-03-09
+6|Cuckoo|CAT|MALE|2021-08-30|[feline heartworm, amputated limb, FeLV]|0|1|ANY|2022-02-02|2022-03-10
+39|Xandro|DOG|MALE|2013-01-19|[]|1|1|INDOOR|2022-03-11|
+40|Moonshine|DOG|FEMALE|2019-06-19|[amputated limb, diabetes]|1|1|INDOOR|2022-03-11|
+41|Jay|CAT|MALE|2010-01-28|[FeLV, cancer]|1|0|OUTDOOR|2022-03-11|
+42|Ecki|CAT|MALE|2008-03-26|[]|0|1|OUTDOOR|2022-03-11|
+1|Schorchy|CAT|MALE|2019-09-10|[blindness, deafness, diabetes]|1|1|ANY|2022-02-02|2022-03-11
+25|Duro|DOG|MALE|2007-03-19|[arthritis, blindness, deafness]|1|0|ANY|2022-02-14|2022-03-11
+38|Elco|CAT|MALE|2020-05-14|[FIV, diabetes]|1|1|ANY|2022-03-08|
+43|Hara|CAT|FEMALE|2018-06-22|[FIV, blindness]|1|1|INDOOR|2022-03-13|
+44|Nick|CAT|MALE|2010-11-19|[FIV, kidney disease, cystitis]|0|0|ANY|2022-03-13|
+45|Vanda|CAT|FEMALE|2011-02-28|[FeLV, diabetes]|1|0|INDOOR|2022-03-13|
+24|Zara|CAT|FEMALE|2015-01-25|[cancer, tooth pathology]|0|0|INDOOR|2022-02-12|2022-03-13
+46|Ouisti|CAT|MALE|2010-10-04|[blindness, diabetes]|1|1|ANY|2022-03-16|
+47|Pegasus|DOG|MALE|2019-10-20|[Lyme disease, amputated limb]|1|0|INDOOR|2022-03-16|
+48|Summer|DOG|FEMALE|2008-10-02|[arthritis, cancer, diabetes]|0|1|INDOOR|2022-03-17|
+49|Margaux|CAT|FEMALE|2016-01-12|[]|0|1|INDOOR|2022-03-17|
+50|Torro|DOG|MALE|2017-07-26|[blindness, diabetes]|1|1|INDOOR|2022-03-17|
+51|Ronija|CAT|FEMALE|2015-07-31|[FeLV, cystitis, obesity]|0|1|ANY|2022-03-17|
+52|Fissy|DOG|FEMALE|2014-11-04|[arthritis, blindness, dog heartworm]|0|0|ANY|2022-03-18|
+53|Heyda|DOG|FEMALE|2014-02-15|[blindness, cancer]|0|1|OUTDOOR|2022-03-18|
+54|Nala|CAT|FEMALE|2007-08-24|[kidney disease, cystitis]|0|1|ANY|2022-03-18|
+16|Lado|DOG|MALE|2013-06-05|[blindness, deafness]|1|0|INDOOR|2022-03-18|
+55|Bila|DOG|FEMALE|2014-04-26|[diabetes]|0|0|INDOOR|2022-03-19|
+56|Coustaeu|DOG|MALE|2012-06-05|[arthritis]|1|1|INDOOR|2022-03-19|
+57|Ajax|DOG|MALE|2018-12-18|[Lyme disease, blindness]|0|1|ANY|2022-03-19|
+58|Boston|CAT|MALE|2014-04-27|[blindness, kidney disease]|1|0|ANY|2022-03-20|
+59|Luigi|CAT|MALE|2010-04-06|[cystitis]|1|0|INDOOR|2022-03-20|
+60|Juana|DOG|FEMALE|2017-12-25|[amputated limb, blindness]|1|1|INDOOR|2022-03-21|
+61|Imbrasa|CAT|FEMALE|2016-10-23|[hyperthyroidism, deafness]|0|0|ANY|2022-03-21|
+62|Catja|CAT|FEMALE|2011-01-12|[obesity]|1|1|INDOOR|2022-03-21|
+23|Lalos|CAT|MALE|2007-10-23|[feline heartworm, hyperthyroidism]|0|1|OUTDOOR|2022-02-11|
+53|Heyda|DOG|FEMALE|2014-02-15|[blindness, cancer]|0|1|OUTDOOR|2022-03-18|2022-03-21
+63|Socks|CAT|MALE|2021-02-19|[]|0|0|ANY|2022-03-23|
+64|Parlo|CAT|MALE|2008-08-19|[amputated limb]|1|1|INDOOR|2022-03-23|
+65|Isabella|DOG|FEMALE|2020-10-31|[amputated limb, cancer, deafness]|0|0|INDOOR|2022-03-23|
+66|Tequilla|CAT|MALE|2019-04-13|[cystitis]|1|1|OUTDOOR|2022-03-23|
